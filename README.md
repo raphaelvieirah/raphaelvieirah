@@ -1,10 +1,10 @@
 Olá! Me chamo Raphael e sou aluno na Alura, Concluindo formação full stack 🤯
 #
-🔭 Estou estudando HTML e CSS
+🔭 | Finalizando curso full stack
 #
-🌱 Estudando na Alura
+🌱 | Estudando na Alura
 #
-😄 Pronome: ele/dele
+😄 | Pronome: ele/dele
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
