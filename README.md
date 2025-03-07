@@ -2,13 +2,6 @@
 
 Back-end Java Developer from Areado, Brazil. I’m focused on creating efficient and scalable solutions, with a strong interest in technology and robotics.
 
-<div style="display: inline-block; padding: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
-</div>
-
 ## 
 
 <div>
